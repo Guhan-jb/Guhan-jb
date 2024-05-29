@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">✨ i"m Guhan J B<br>📚 I'm a pre-final year CSE student<br>🎯 - Currently occupied with web development and Machine learning</p>
+<p align="left">✨ i"m Guhan J B<br>📚 I'm a final year CSE student<br>🎯 - Currently occupied with web development and Machine learning</p>
 
 ###
 
